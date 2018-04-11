@@ -33,6 +33,6 @@ python SentimentPract2.py
 ## Authors
 
 * **Ricardo Soares** - [thyriki](https://github.com/thyriki)
-* **Juan García del Muro** - [astraey](https://github.com/astraey
+* **Juan García del Muro** - [astraey](https://github.com/astraey)
 
 For any inquiries, feel free to open up an issue.
