@@ -13,7 +13,7 @@ The authors analyzed these approaches thoroughly in a report format, and impleme
 
 ## Getting Started
 
-The software provided was entirely done in *Java*. To start, clone the present repository into your local machine. If you're unaware of how to achieve this, please become familiar with the mechanisms of [GitHub](https://help.github.com/articles/set-up-git) repositories.
+To start, clone the present repository into your local machine. If you're unaware of how to achieve this, please become familiar with the mechanisms of [GitHub](https://help.github.com/articles/set-up-git) repositories.
 
 ```
 git clone git@github.com:thyriki/NLPSentimentAnalysis.git
