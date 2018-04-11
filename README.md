@@ -2,7 +2,7 @@
 
 The present system analyses a *train dataset* of labelled (*Positive / Negative*) Rotten Tomatoes reviews through a *Naive Bayes* approach, and attempts to classify the sentiment of the reviews in three *test datasets*:
 
-* The *dataset used for training*;
+* The *dataset of Rotten Tomatoes' reviews used for training*;
 * A *test dataset of Rotten Tomatoes' reviews*;
 * A *test dataset of Nokia reviews* (hence, a different domain).
 
